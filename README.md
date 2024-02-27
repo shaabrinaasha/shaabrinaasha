@@ -1,4 +1,5 @@
 ### Hi there 👋
+i feel silly learning but that's literally why i need to be here and fight that feeling everyday. will update this page better!
 
 <!--
 **shaabrinaasha/shaabrinaasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
