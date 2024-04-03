@@ -1,13 +1,12 @@
 ### Hi there 👋
 Hi! I’m Shabrina and I have a crush for design and technology. My interest in UI/UX & product field encourages me to keep continue learning how to fuse design and tech together to create creative solutions. Through this github, I'm continuing to learn more towards the technical side of product development, focusing on web.
 
-- 🔭 I’m currently working on SatriaLearn: Springboot based information system site for managing SMK Satria Bangsa's courses, grades, and attendance.
+- 🔭 I’m currently working on [SatriaLearn](https://github.com/shaabrinaasha/SatriaLearn): Springboot based information system site for managing SMK Satria Bangsa's courses, grades, and attendance.
 - 🌱 I’m currently learning React and Springboot
 - 👯 I’m looking to collaborate on building websites for portofolio
 - 🤔 I’m looking for help with frontend development
 - 💬 Ask me about product design and ideation
-- 📫 How to reach me: shabrinanurmalitasari@gmail.com and [LinkedIn](https://www.linkedin.com/in/shabrina-nurmalitasari/)
-- ⚡ Fun fact: 
+- 📫 How to reach me: Email on shabrinanurmalitasari@gmail.com and [LinkedIn](https://www.linkedin.com/in/shabrina-nurmalitasari/)
 
 <!--
 **shaabrinaasha/shaabrinaasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
